@@ -17,9 +17,9 @@
 
 ## Результат
 
-![Result1](/img/result1.PNG)
+![Result1](/img/result.PNG)
 
-![Result2](/img/result2.PNG)
+![Result2](/img/result1.PNG)
 
 ---
 **УВАГА! Не забуваємо здавати завдання через Google Classroom та вказувати посилання на створений для вас репозиторій!**
