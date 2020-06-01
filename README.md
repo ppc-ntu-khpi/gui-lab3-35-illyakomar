@@ -11,6 +11,16 @@
 
 Всі необхідні бібліотеки містяться у теці [jars](https://github.com/ppc-ntu-khpi/GUI-Lab3-Starter/tree/master/jars). В тому числі - всі необхідні відкомпільовані класи з робіт 1-8 - файл [MyBank.jar](https://github.com/ppc-ntu-khpi/GUI-Lab3-Starter/blob/master/jars/MyBank.jar). Файл даних лежить у теці [data](https://github.com/ppc-ntu-khpi/GUI-Lab3-Starter/tree/master/data).
 
+## Завдання на "п'ять"
+
+Долайте до форми кнопку Report, яка має виводити у нижній частині вікна звіт за клієнтами такого ж виду, як у роботі номер 8 (див. CustomerReport). Запустіть проект, впевніться, що все працює як очікувалось.  Продемонстрируйте результат викладачеві.
+
+## Результат
+
+![Result1](/img/result1.PNG)
+
+![Result2](/img/result2.PNG)
+
 ---
 **УВАГА! Не забуваємо здавати завдання через Google Classroom та вказувати посилання на створений для вас репозиторій!**
 
